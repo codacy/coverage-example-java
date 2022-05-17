@@ -2,6 +2,10 @@ package com.codacy.utils;
 
 public class Math {
 
+    // Add a comment just for fun
+
+
+
     private int magicNumber;
 
     public Math(int magicNumber) {
