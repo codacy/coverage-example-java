@@ -12,6 +12,7 @@ public class Math {
      * Adds 2 numbers, unless there is a magic number on the second argument
      */
     public int magicAdd(int x, int y) {
+        //Not coverable line
         if (y == magicNumber) {
             return y - x;
         } else {
