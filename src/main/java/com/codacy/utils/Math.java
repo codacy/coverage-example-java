@@ -13,6 +13,7 @@ public class Math {
      */
     public int magicAdd(int x, int y) {
         // Add a no coverable line
+        // Add another no coverable line
         if (y == magicNumber) {
             return y - x;
         } else {
