@@ -1,6 +1,7 @@
 # coverage-example-java
 
 Example repository on how to generate a coverage report for Java.
+No changes on coverage
 
 ## Requirements
 
