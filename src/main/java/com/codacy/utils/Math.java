@@ -15,12 +15,15 @@ public class Math {
         if (y == magicNumber) {
             int cenas = 12345;
             int maisCenas = 67890;
+            System.out.println("what?");
             if (cenas > maisCenas) {
                 System.out.println("what?");
                 return x;
             } else if (cenas < maisCenas) {
+                System.out.println("what?");
                 return y;
             } else {
+                System.out.println("what?");
                 return y - x;
             }
         } else {
