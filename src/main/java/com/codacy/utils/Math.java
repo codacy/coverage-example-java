@@ -17,14 +17,18 @@ public class Math {
             int maisCenas = 67890;
             if (cenas > maisCenas) {
                 System.out.println("what?");
+                System.out.println("whatss?");
                 return x;
             } else if (cenas < maisCenas) {
+                System.out.println("whatss?");
                 return y;
             } else {
+                System.out.println("whatss?");
                 return y - x;
             }
         } else {
             System.out.println("hey");
+            System.out.println("whatssss?");
             return x + y;
         }
     }
