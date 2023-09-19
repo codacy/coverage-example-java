@@ -6,6 +6,11 @@ Example repository on how to generate a coverage report for Java.
 
 - Maven 3.x
 - Java 8
+- test only in a branch
+  - test only in a branch
+     - test only in a branch
+* isdasdasdas
+      * isdasdasdas 
 
 If you don't have those specific versions, [SDKMAN!](https://sdkman.io/install) can be helpful.
 
